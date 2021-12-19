@@ -1,7 +1,9 @@
 {
   "name": "gourd-crab-shrimp-fish",
   "version": "0.1.0",
-  "private": true,
+  "engines": {
+    "node": "6.11.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
